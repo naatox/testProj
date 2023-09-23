@@ -8,9 +8,9 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <h1>RENA CACHUITO</h1>
+    <h1>RENA CACHUITo</h1>
     <h2 class="mt-2 text-red-5000 text-2x1 uppercase front-bold text-center">RENA CACHUO</h2>
-    <img src= "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-vaca_29937-10306.jpg?w=2000" />
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jdpe6vlX5UReXRu7YyBL2W7q4hKnD9tMeljTIuCs&s" />
 
 </body>
 </html>
