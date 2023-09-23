@@ -8,7 +8,7 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <h1>Buendía</h1>
+    <h1>Buendía PUTAS</h1>
     <a href="{{route('register')}}">Click aqui para ver la magia</a>
 </body>
 </html>
